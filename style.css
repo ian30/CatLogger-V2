@@ -1,0 +1,5 @@
+.nav-item a.active {
+    font-weight:bold;
+    background:#efefef;
+    border-radius: 4px;
+}

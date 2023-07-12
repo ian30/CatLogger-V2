@@ -1,0 +1,107 @@
+{
+  "cats": [
+    {
+      "name": "Fluffy",
+      "dob": "2019-01-01",
+      "age": 2,
+      "breed": "British Shorthair",
+      "gender": "female",
+      "weight": 10,
+      "fixed": true,
+      "spay": false,
+      "medical_conditions": "None",
+      "medications": [
+        {
+          "name": "Flea medication",
+          "dosage": "1 tablet per month"
+        }
+      ]
+    },
+    {
+      "name": "Max",
+      "dob": "2018-06-15",
+      "age": 3,
+      "gender": "male",
+      "weight": 12,
+      "fixed": true,
+      "spay": true,
+      "medical_conditions": "None",
+      "medications": [
+        {
+          "name": "Heartworm medication",
+          "dosage": "1 tablet per month"
+        }
+      ]
+    },
+    {
+      "name": "Mittens",
+      "dob": "2017-12-01",
+      "age": 4,
+      "gender": "female",
+      "weight": 8,
+      "fixed": false,
+      "spay": false,
+      "medical_conditions": "Arthritis",
+      "medications": [
+        {
+          "name": "Pain medication",
+          "dosage": "1 tablet per day"
+        },
+        {
+          "name": "Joint supplement",
+          "dosage": "1 tablet per day"
+        }
+      ]
+    },
+    {
+      "name": "Whiskers",
+      "dob": "2019-03-15",
+      "age": 2,
+      "gender": "Male",
+      "fixed": true,
+      "shots": true,
+      "weight": 4.5,
+      "special_notes": "Likes to play with yarn"
+    },
+    {
+      "name": "Mittens",
+      "dob": "2020-07-02",
+      "age": 1,
+      "gender": "Female",
+      "fixed": false,
+      "shots": true,
+      "weight": 6.2,
+      "special_notes": "Enjoys chasing laser pointers"
+    },
+    {
+      "name": "Oscar",
+      "dob": "2018-11-20",
+      "age": 3,
+      "gender": "Male",
+      "fixed": true,
+      "shots": false,
+      "weight": 5.8,
+      "special_notes": "Loves to cuddle"
+    },
+    {
+      "name": "Felix",
+      "dob": "2019-08-10",
+      "age": 2,
+      "gender": "Male",
+      "fixed": true,
+      "shots": true,
+      "weight": 6.5,
+      "special_notes": "Likes to play fetch"
+    },
+    {
+      "name": "Luna",
+      "dob": "2020-05-25",
+      "age": 1,
+      "gender": "Female",
+      "fixed": true,
+      "shots": true,
+      "weight": 4.2,
+      "special_notes": "Enjoys sunbathing"
+    }
+  ]
+}
